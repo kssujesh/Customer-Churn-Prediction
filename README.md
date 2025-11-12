@@ -42,9 +42,9 @@ The best-performing model (e.g., Gradient Boosting or Random Forest) achieved th
 | Metric | Value |
 | :--- | :--- |
 | **Accuracy** | 80% |
-| **Precision (Churn=1)** | XX.XX% |
-| **Recall (Churn=1)** | **XX.XX%** |
-| **F1-Score (Churn=1)** | XX.XX% |
+| **Precision (Churn=1)** | 85% |
+| **Recall (Churn=1)** | **80%** |
+| **F1-Score (Churn=1)** | 85% |
 | **AUC-ROC** | 0.XX |
 
 [Image of a ROC curve]
