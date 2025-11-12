@@ -47,8 +47,6 @@ The best-performing model (e.g., Gradient Boosting or Random Forest) achieved th
 | **F1-Score (Churn=1)** | 85% |
 | **AUC-ROC** | 0.74 |
 
-[Image of a ROC curve]
-
 > **Note:** The high Recall value indicates the model is effective at identifying the majority of actual churning customers, which is critical for proactive intervention.
 
 -----
@@ -80,5 +78,3 @@ The best-performing model (e.g., Gradient Boosting or Random Forest) achieved th
     ```
 4.  **Run the notebooks:**
     Open the main analysis notebook (`analysis.ipynb` or similar) to view the data exploration, modeling, and results.
-
-Would you like me to elaborate on a specific section, such as the feature engineering steps or the model evaluation metrics?
