@@ -41,7 +41,7 @@ The best-performing model (e.g., Gradient Boosting or Random Forest) achieved th
 
 | Metric | Value |
 | :--- | :--- |
-| **Accuracy** | XX.XX% |
+| **Accuracy** | 80% |
 | **Precision (Churn=1)** | XX.XX% |
 | **Recall (Churn=1)** | **XX.XX%** |
 | **F1-Score (Churn=1)** | XX.XX% |
