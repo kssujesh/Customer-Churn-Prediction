@@ -37,7 +37,7 @@ The project utilizes a dataset containing various customer attributes and servic
 
 ### 📈 Results and Models
 
-The best-performing model (e.g., Gradient Boosting or Random Forest) achieved the following results on the test set:
+The best-performing model achieved the following results on the test set:
 
 | Metric | Value |
 | :--- | :--- |
