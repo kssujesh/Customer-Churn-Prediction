@@ -30,7 +30,7 @@ This project is implemented using the following tools and Python libraries:
 
 The project utilizes a dataset containing various customer attributes and service usage information.
 
-  * **Source:** [Specify the source of your dataset, e.g., Kaggle, a specific platform, or internal data - *Replace this placeholder*]
+  * **Source:** Kaggle
   * **Features:** Typically includes information like gender, age, service type, contract duration, monthly charges, total charges, and the target variable **Churn**.
 
 -----
